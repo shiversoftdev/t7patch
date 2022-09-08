@@ -1,5 +1,5 @@
 # Black Ops 3 Community Patch
-A new and improved community patch for a large list of Black Ops III exploits. Please report any issues to serious#9999 on discord.
+A new and improved community patch for a large list of Black Ops III exploits. Please report any issues to serious#9999 on discord by joining discord.gg/gsc.
 # Instructions
 Download the zip from the releases section on the right. If your antivirus deletes the file, add an exception
 # Credits
