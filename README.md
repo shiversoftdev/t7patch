@@ -1,11 +1,15 @@
 # Black Ops 3 Community Patch
-A new and improved community patch for a large list of Black Ops III exploits. Please report any issues to serious#9999 on discord by joining discord.gg/gsc
+A new and improved community patch for a large list of Black Ops III exploits. Please report any issues to serious#9999 on discord by joining [my discord](discord.gg/gsc)
+
+NOTE: This is not a support server. You may DM me (serious#9999) about issues related to the tool not working.
 
 Please do not try to use any public cheats with this patch. Almost all of them are incompatible.
 # Instructions
 1. Download the zip from the releases section on the right. If your antivirus deletes the file, add an exception.
 2. Extract the files to any folder. 
 3. Run the exe before you start Black Ops III and leave it open in the background while you play.
+
+[Video Tutorial](https://youtu.be/jDQkNV5J4SM?t=394)
 
 # Frequently Asked Questions
 
