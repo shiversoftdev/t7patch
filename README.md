@@ -35,7 +35,7 @@ A: The code is protected against reverse engineering. This protection unintentio
 ### Q: What is the LPC file for?
 A: The LPC file is to fix the A.B.C error on sign in. Not necessary for most users.
 ### Q: Who should I send crash reports to?
-A: Serious#9999 on discord. You must be in my server and allow dms from server members to message me. I will not accept friend requests.
+A: serious#9999 on discord. You must be in my server and allow dms from server members to message me. I will not accept friend requests.
 ### Q: Is this tool still updated?
 A: Yes. I have been collecting information and working on a new version. 1.06 is expected to be pushed within a week or two.
 
