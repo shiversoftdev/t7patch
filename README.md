@@ -10,6 +10,7 @@ Please do not try to use any public cheats with this patch. Almost all of them a
 
 1. Download [the patch](https://github.com/shiversoftdev/t7patch/releases/tag/Current).
 2. Watch the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394). Read the FAQ for additional info before asking questions.
+3. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
 
 # Frequently Asked Questions
 
