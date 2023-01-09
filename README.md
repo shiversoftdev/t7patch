@@ -57,6 +57,7 @@ A: You can report your crashes.log to me, but as I have explained in the [video 
 Serious - Creator of the patch
 # Special Thanks
 SyGnUs - Exception handler help\
+momo5502 - Report of critical RCE method and how it works\
 ItsFebiven, Kai, ssno - Testing\
 Kenshin9977, Obey, Dawson - Crash Reports\
 Snowy. - Crash Report for CL_HandleRelayPacket\
