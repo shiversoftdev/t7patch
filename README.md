@@ -49,6 +49,8 @@ A: No.
 A: [Please watch this video.](https://www.youtube.com/watch?v=ykoH31p61_E)
 ### Q: Will this work for Linux? Will this work for Windows 7?
 A: The patch only supports Windows 10 and Windows 11 for now.
+### Q: Error at hooking API "LoadStringA"
+A: [Install the visual c++ redistributables](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 ### Q: I was in a public game and still got crashed!
 A: You can report your crashes.log to me, but as I have explained in the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394), multiplayer matchmade lobbies are going to continue to have crashing issues (among others such as aimbot, godmode cheaters, etc), and I do not plan to continue playing cat and mouse with the cheating community. They may not have a life, but I do. 
 
