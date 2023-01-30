@@ -14,6 +14,8 @@ Please do not try to use any public cheats with this patch. Almost all of them a
 
 # Frequently Asked Questions
 
+### Q: Does this patch fix the FPS issue?
+A: Yes
 ### Q: Do I need to run the patch if I am playing solo offline?
 A: Simple answer, no. Technical answer, maybe. If you are high profile, run it regardless because steam networking is complicated.
 ### Q: Does this fix the RCE vulnerabilities you mentioned in your video?
@@ -25,8 +27,6 @@ A: Steam alts are only recommended for high profile players or streamers. If you
 Your stats will not transfer to your new account, and if you wish to retain stats you may need to resort to third party tools.
 ### Q: Does this patch work on Steam deck? Mac OS? Linux?
 A: No. This patch is only designed to work on PC (Windows computers). I do not have plans to support other platforms at this time.
-### Q: Does this patch fix the FPS issue?
-A: Yes. There is a small subset of users who experience an additional frame rate drop at the start of matches, but this issue will be addressed when possible.
 ### Q: Can you make this patch compatible with other mod menus, cheats, or third party tools?
 A: No. The patch uses a lot of complicated techniques to patch the game that interfere with most third party tools. This is due to the fact that Black Ops III is heavily resistant to patching by non-official sources. Additionally, I consider it a bonus that cheaters must choose to play unprotected to the griefing mechanisms that they have used against the community for so long.
 ### Q: Will you ever post source code?
