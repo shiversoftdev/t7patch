@@ -1,7 +1,7 @@
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
 
-After reading the FAQ, please report any issues with the tool not working or new crashes to serious#9999 on discord.
+**After reading the FAQ**, please report any issues with the tool not working or new crashes to serious#9999 on discord.
 
 You can contact me by joining [my server](https://discord.gg/gsc). Please be aware that this is not a support server, so please direct questions to my DMs, not the general chat of the server. Sending messages about support for the patch in general chat may result in a ban.
 
