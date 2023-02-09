@@ -19,7 +19,7 @@ A: Yes
 ### Q: Do I need to run the patch if I am playing solo offline?
 A: Simple answer, no. Technical answer, maybe. If you are high profile, run it regardless because steam networking is complicated.
 ### Q: Does this fix the RCE vulnerabilities you mentioned in your video?
-A: Yes. This fixes 2 of the known RCE vulnerabilities. To my knowledge, there is at least one more and I am actively looking for it.
+A: Yes. This fixes 3 of the known RCE vulnerabilities.
 ### Q: Do I need a VPN?
 A: If you are high profile or a streamer, yes. Otherwise, not likely. If you are getting hit offline (internet) often, run a VPN.
 ### Q: Do I need an alternate steam profile? My stats don't transfer over!
