@@ -1,6 +1,40 @@
 # IMPORTANT
 As of the newest update, the patch will currently no longer work. I am working to update the offsets and will update when I can.
 
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+.
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
 
