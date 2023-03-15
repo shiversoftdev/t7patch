@@ -67,3 +67,4 @@ Lerggy, Vortex - Additional information\
 Mikey0006 - UI Error report\
 Aqua - Name spoofing bug report and friends only bug report\
 IceGrenade - Reported Server Browser IP Leaking
+FragsAreUs - Proton and Win7 ntdll binaries
