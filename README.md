@@ -26,11 +26,11 @@ A: If you are high profile or a streamer, yes. Otherwise, not likely. If you are
 A: Steam alts are only recommended for high profile players or streamers. If you are not being attacked, you don't need an alt.
 Your stats will not transfer to your new account, and if you wish to retain stats you may need to resort to third party tools.
 ### Q: Does this patch work on Steam deck? Mac OS? Linux?
-A: Maybe. This patch is only designed to work on PC (Windows computers). I do not have plans to support other platforms at this time.
+A: No. This patch is only designed to work on PC (Windows computers). I do not have plans to support other platforms at this time.
 ### Q: Can you make this patch compatible with other mod menus, cheats, or third party tools?
 A: No. The patch uses a lot of complicated techniques to patch the game that interfere with most third party tools. This is due to the fact that Black Ops III is heavily resistant to patching by non-official sources. Additionally, I consider it a bonus that cheaters must choose to play unprotected to the griefing mechanisms that they have used against the community for so long.
 ### Q: Will you ever post source code?
-A: Eventually.
+A: No. The patch is the same project as ZBR which means I cannot release the source without also releasing the ZBR source, which will not happen.
 ### Q: Why does my anti-virus say this is malware?
 A: The code is protected against reverse engineering. This protection unintentionally prevents anti-virus scans from identifying whether the tool is safe or not. Modern anti-virus will, by default, label anything that it cannot scan completely as malware to protect users.
 ### Q: What is the LPC file for?
@@ -48,7 +48,7 @@ A: No.
 ### Q: What is the network password for?
 A: [Please watch this video.](https://www.youtube.com/watch?v=ykoH31p61_E)
 ### Q: Will this work for Linux? Will this work for Windows 7?
-A: The patch only supports Windows 10 and Windows 11 for now. I tried to add support to proton, so feel free to let me know if it works or not.
+A: The patch only supports Windows 10 and Windows 11 for now. I tried to add support to proton, but it is not currently working.
 ### Q: Error at hooking API "LoadStringA"
 A: [Install the visual c++ redistributables](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 ### Q: I was in a public game and still got crashed!
