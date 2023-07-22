@@ -33,7 +33,7 @@ A: No. This patch is only designed to work on PC (Windows computers). I do not h
 ### Q: Can you make this patch compatible with other mod menus, cheats, or third party tools?
 A: No. The patch uses a lot of complicated techniques to patch the game that interfere with most third party tools. This is due to the fact that Black Ops III is heavily resistant to patching by non-official sources. Additionally, I consider it a bonus that cheaters must choose to play unprotected to the griefing mechanisms that they have used against the community for so long.
 ### Q: Does the patch work with custom maps?
-Yes.
+A: Yes.
 ### Q: Will you ever post source code?
 A: No. The patch is the same project as ZBR which means I cannot release the source without also releasing the ZBR source, which will not happen.
 ### Q: Why does my anti-virus say this is malware?
