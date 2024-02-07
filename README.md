@@ -38,6 +38,8 @@ A: Yes.
 A: No. The patch is the same project as ZBR which means I cannot release the source without also releasing the ZBR source, which will not happen.
 ### Q: Why does my anti-virus say this is malware?
 A: The code is protected against reverse engineering. This protection unintentionally prevents anti-virus scans from identifying whether the tool is safe or not. Modern anti-virus will, by default, label anything that it cannot scan completely as malware to protect users.
+### Q: Why is this program protected against reverse engineering?
+A: I have patched many unknown/new exploits that low-level cheat developers do not know about. By protecting the program, it makes it harder for these cheat developers to find new ways to ruin the game.
 ### Q: What is the LPC file for?
 A: The LPC file is to fix the A.B.C error on sign in. Not necessary for most users.
 ### Q: Who should I send crash reports to?
