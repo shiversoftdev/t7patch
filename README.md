@@ -6,11 +6,21 @@ A new and improved community patch for a large list of Black Ops III exploits.
 You can contact me by joining [my server](https://discord.gg/gsc). Please be aware that this is not a support server, so please direct questions to my DMs, not the general chat of the server. Sending messages about support for the patch in general chat may result in a ban.
 
 Please do not try to use any public cheats with this patch. Almost all of them are incompatible.
-# Instructions
+# Windows Instructions
 
 1. Download [the patch](https://github.com/shiversoftdev/t7patch/releases/tag/Current).
-2. Watch the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394). Read the FAQ for additional info before asking questions.
+2. Watch the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394). Read the FAQ for additional info before asking questions. Note that as of update 2.03, you will need to extract **all of the files into a folder**.
 3. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
+
+# Linux/Steamdeck Instructions
+1. Download [the linux zip](https://github.com/shiversoftdev/t7patch/releases/tag/Current) and extract the files into your Black Ops 3 installation folder
+2. Open steam properties\
+![s1](/steam1.png)
+3. Change the launch options to match the image below\
+![s2](/steam2.png)
+4. Change your proton version and enable steam play compatibility\
+![s3](/steam3.png)
+5. Edit your settings in the t7patch.conf file provided (name, friends only, etc). **You can edit these while the game is running too**.
 
 # Known Incompatibilities
 1. Overwolf OBS plugin causes fatal crash in BO3 when patch is loading.
@@ -28,18 +38,16 @@ A: If you are high profile or a streamer, yes. Otherwise, not likely. If you are
 ### Q: Do I need an alternate steam profile? My stats don't transfer over!
 A: Steam alts are only recommended for high profile players or streamers. If you are not being attacked, you don't need an alt.
 Your stats will not transfer to your new account, and if you wish to retain stats you may need to resort to third party tools.
-### Q: Does this patch work on Steam deck? Mac OS? Linux?
-A: No. This patch is only designed to work on PC (Windows computers). I do not have plans to support other platforms at this time.
+### Q: Does this patch work on Steam deck? Linux?
+A: As of 2.03, yes. Please use the Linux installation instructions. Thanks again to @InvoxiPlayGames for making this possible.
 ### Q: Can you make this patch compatible with other mod menus, cheats, or third party tools?
 A: No. The patch uses a lot of complicated techniques to patch the game that interfere with most third party tools. This is due to the fact that Black Ops III is heavily resistant to patching by non-official sources. Additionally, I consider it a bonus that cheaters must choose to play unprotected to the griefing mechanisms that they have used against the community for so long.
 ### Q: Does the patch work with custom maps?
 A: Yes.
 ### Q: Will you ever post source code?
-A: No. The patch is the same project as ZBR which means I cannot release the source without also releasing the ZBR source, which will not happen.
+A: Most of the source can be found here: https://github.com/shiversoftdev/Black-Ops-3-Projects/tree/main
 ### Q: Why does my anti-virus say this is malware?
-A: The code is protected against reverse engineering. This protection unintentionally prevents anti-virus scans from identifying whether the tool is safe or not. Modern anti-virus will, by default, label anything that it cannot scan completely as malware to protect users.
-### Q: Why is this program protected against reverse engineering?
-A: I have patched many unknown/new exploits that low-level cheat developers do not know about. By protecting the program, it makes it harder for these cheat developers to find new ways to ruin the game.
+A: Some of the techniques used to patch the game are similar to techniques used by malware, which causes antivirus to be upset.
 ### Q: What is the LPC file for?
 A: The LPC file is to fix the A.B.C error on sign in. Not necessary for most users.
 ### Q: Who should I send crash reports to?
@@ -66,6 +74,7 @@ A: You can report your crashes.log to me, but as I have explained in the [video 
 Serious - Creator of the patch
 # Special Thanks
 SyGnUs - Exception handler help\
+Emma/IPG - Linux/steamdeck support\
 momo5502 - Report of critical RCE method and how it works\
 ItsFebiven, Kai, ssno - Testing\
 Kenshin9977, Obey, Dawson - Crash Reports\
