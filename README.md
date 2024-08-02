@@ -1,10 +1,6 @@
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
 
-**After reading the FAQ**, please report any issues with the tool not working or new crashes to @anthonything on discord.
-
-You can contact me by joining [my server](https://discord.gg/gsc). Please be aware that this is not a support server, so please direct questions to my DMs, not the general chat of the server. Sending messages about support for the patch in general chat may result in a ban.
-
 Please do not try to use any public cheats with this patch. Almost all of them are incompatible.
 # Windows Instructions
 
@@ -45,7 +41,7 @@ A: No. The patch uses a lot of complicated techniques to patch the game that int
 ### Q: Does the patch work with custom maps?
 A: Yes.
 ### Q: Will you ever post source code?
-A: Most of the source can be found here: https://github.com/shiversoftdev/Black-Ops-3-Projects/tree/main
+A: Most of the source can be found here: https://github.com/shiversoftdev/Black-Ops-3-Projects/tree/main -- ZBR Native is the dll
 ### Q: Why does my anti-virus say this is malware?
 A: Some of the techniques used to patch the game are similar to techniques used by malware, which causes antivirus to be upset.
 ### Q: What is the LPC file for?
