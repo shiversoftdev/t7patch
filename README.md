@@ -58,8 +58,8 @@ A: No.
 A: No.
 ### Q: What is the network password for?
 A: [Please watch this video.](https://www.youtube.com/watch?v=ykoH31p61_E)
-### Q: Will this work for Linux? Will this work for Windows 7?
-A: The patch only supports Windows 10 and Windows 11 for now. I tried to add support to proton, but it is not currently working.
+### Q: Will this work for Windows 7?
+A: The patch only supports Windows 10 and Windows 11 for now.
 ### Q: Error at hooking API "LoadStringA"
 A: [Install the visual c++ redistributables](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 ### Q: I was in a public game and still got crashed!
