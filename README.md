@@ -36,6 +36,8 @@ A: Steam alts are only recommended for high profile players or streamers. If you
 Your stats will not transfer to your new account, and if you wish to retain stats you may need to resort to third party tools.
 ### Q: Does this patch work on Steam deck? Linux?
 A: As of 2.03, yes. Please use the Linux installation instructions. Thanks again to @InvoxiPlayGames for making this possible.
+### Q: Does this patch work on Mac?
+A: No, however, you can use [BO3MacFix by Emma](https://github.com/InvoxiPlayGames/BO3MacFix) which is fully compatible with network passwords, fixes custom maps, and allows crossplay between Mac and Windows players.
 ### Q: Can you make this patch compatible with other mod menus, cheats, or third party tools?
 A: No. The patch uses a lot of complicated techniques to patch the game that interfere with most third party tools. This is due to the fact that Black Ops III is heavily resistant to patching by non-official sources. Additionally, I consider it a bonus that cheaters must choose to play unprotected to the griefing mechanisms that they have used against the community for so long.
 ### Q: Does the patch work with custom maps?
@@ -46,8 +48,6 @@ A: Most of the source can be found here: https://github.com/shiversoftdev/Black-
 A: Some of the techniques used to patch the game are similar to techniques used by malware, which causes antivirus to be upset.
 ### Q: What is the LPC file for?
 A: The LPC file is to fix the A.B.C error on sign in. Not necessary for most users.
-### Q: Who should I send crash reports to?
-A: serious#9999 on discord. You must be in my server and allow dms from server members to message me. I will not accept friend requests.
 ### Q: Is this tool still updated?
 A: Yes.
 ### Q: Are the security concerns still valid?
@@ -59,11 +59,11 @@ A: No.
 ### Q: What is the network password for?
 A: [Please watch this video.](https://www.youtube.com/watch?v=ykoH31p61_E)
 ### Q: Will this work for Linux? Will this work for Windows 7?
-A: The patch only supports Windows 10 and Windows 11 for now. I tried to add support to proton, but it is not currently working.
+A: Windows 7 and below is not supported. Linux is supported.
 ### Q: Error at hooking API "LoadStringA"
 A: [Install the visual c++ redistributables](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 ### Q: I was in a public game and still got crashed!
-A: You can report your crashes.log to me, but as I have explained in the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394), multiplayer matchmade lobbies are going to continue to have crashing issues (among others such as aimbot, godmode cheaters, etc), and I do not plan to continue playing cat and mouse with the cheating community. They may not have a life, but I do. 
+A: Yes, without the network password you are still vulnerable to certain crashing exploits.
 
 
 # Credits
