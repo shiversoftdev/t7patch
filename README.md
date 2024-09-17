@@ -1,3 +1,6 @@
+# READ ME NOW
+### This patch does not need to be updated all the time to work. It has not been bypassed; there are no new threats. The repo will be updated if there is ever a need to do so. As of 9/17/2024, the game is still safe to play with a network password. Your antivirus is mistakingly flagging the game; it is a false alarm.
+
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
 
