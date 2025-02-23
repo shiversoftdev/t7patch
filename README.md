@@ -1,5 +1,5 @@
 # READ ME NOW
-### This patch does not need to be updated all the time to work. It has not been bypassed; there are no new threats. The repo will be updated if there is ever a need to do so. As of 9/17/2024, the game is still safe to play with a network password. Your antivirus is mistakingly flagging the game; it is a false alarm.
+### This patch does not need to be updated all the time to work. It has not been bypassed; there are no new threats. The repo will be updated if there is ever a need to do so. As of 2/23/2024, the game is still safe to play with a network password. Your antivirus is mistakingly flagging the game; it is a false alarm.
 
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
@@ -31,7 +31,7 @@ A: Yes
 ### Q: Do I need to run the patch if I am playing solo offline?
 A: Simple answer, no. Technical answer, maybe. If you are high profile, run it regardless because steam networking is complicated.
 ### Q: Does this fix the RCE vulnerabilities you mentioned in your video?
-A: Yes. This fixes 4 of the known RCE vulnerabilities. Additionally, the BO3 update recently patched RCE.
+A: Yes.
 ### Q: Do I need a VPN?
 A: If you are high profile or a streamer, yes. Otherwise, not likely. If you are getting hit offline (internet) often, run a VPN.
 ### Q: Do I need an alternate steam profile? My stats don't transfer over!
@@ -54,7 +54,7 @@ A: The LPC file is to fix the A.B.C error on sign in. Not necessary for most use
 ### Q: Is this tool still updated?
 A: Yes.
 ### Q: Are the security concerns still valid?
-A: Partially. The RCE vulnerabilities are no longer a concern, but the patch fixes many remote crashes which can be used to grief people.
+A: Yes.
 ### Q: Is there a ban risk when using this tool?
 A: No.
 ### Q: Will this affect other games? Can another anticheat ban me for using this on BO3?
