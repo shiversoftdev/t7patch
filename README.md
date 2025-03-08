@@ -1,8 +1,14 @@
-# READ ME NOW
-### This patch does not need to be updated all the time to work. It has not been bypassed; there are no new threats. The repo will be updated if there is ever a need to do so. As of 2/23/2024, the game is still safe to play with a network password. Your antivirus is mistakingly flagging the game; it is a false alarm.
+> [!IMPORTANT]
+> This patch does not need to be updated all the time to work. It has not been bypassed; there are no new threats. The repo will be updated if there is ever a need to do so. As of 3/7/2025, the game is still safe to play **with a network password**.
+
+> [!CAUTION]
+> You should be using some kind of community patch or client to play the game. The game does still have dangerous exploits when unpatched. You can either use t7patch, t7x, or [BO3Enhanced](https://github.com/shiversoftdev/BO3Enhanced) for PC, and you can use [BO3MacFix](https://github.com/InvoxiPlayGames/BO3MacFix) for MacOS.
+
+
 
 # Black Ops 3 Community Patch
 A new and improved community patch for a large list of Black Ops III exploits. 
+
 
 Please do not try to use any public cheats with this patch. Almost all of them are incompatible.
 # Windows Instructions
